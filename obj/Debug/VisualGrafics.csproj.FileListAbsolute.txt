@@ -1,0 +1,8 @@
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\bin\Debug\CG.exe.config
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\bin\Debug\CG.exe
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\bin\Debug\CG.pdb
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\obj\Debug\CG.Form1.resources
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\obj\Debug\VisualGrafics.csproj.GenerateResource.cache
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\obj\Debug\CG.exe
+C:\Users\white\OneDrive\Рабочий стол\Надо\CG\obj\Debug\CG.pdb
